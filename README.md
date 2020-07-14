@@ -13,4 +13,4 @@ For this project, I had used the following tech tools -
 
 ## Screenshots  
 
-<img src="screenshots/desktop-view.JPG" height="300" width="700" hspace="5"><img src="screenshots/mobile-view.JPG" height="300" width="200">
+<img src="screenshots/desktop-view.JPG" height="300" width="600" hspace="5"><img src="screenshots/mobile-view.JPG" height="300" width="200">
